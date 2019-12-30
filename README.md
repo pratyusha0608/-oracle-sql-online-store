@@ -1,5 +1,5 @@
 # -oracle-sql-online-store
-createing online store database using oracle sql
+creating online store database using oracle sql
 download oracle sql software
 ftp://ftp1.gitam.edu/CSE/Oracle%2011g%20R2%2064-bit%20Express%20Edition/  
 
